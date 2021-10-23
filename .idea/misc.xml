@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/CS Stuff/Android_Studio_Projects/Parsegram/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/CS Stuff/Android_Studio_Projects/Parsegram/app/src/main/res/layout/activity_login.xml" value="0.4" />
         <entry key="..\:/CS Stuff/Android_Studio_Projects/Parsegram/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/CS Stuff/Android_Studio_Projects/Parsegram/app/src/main/res/xml/fileprovider.xml" value="0.25416666666666665" />
         <entry key="..\:/CS Stuff/Android_Studio_Projects/Parsetagram/app/src/main/res/layout/activity_login.xml" value="0.264" />
       </map>
     </option>
